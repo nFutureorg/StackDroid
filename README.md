@@ -13,3 +13,5 @@ Stacked Generalization in Android Malware Detection
 5. Islam, T., Rahman, S. S. M. M., Hasan, M. A., Rahaman, A. S. M. M., & Jabiullah, M. I. (2020). Evaluation of N-Gram Based Multi-Layer Approach to Detect Malware in Android. Procedia Computer Science, 171, 1074-1082.
 
 6. Rana, M. S., Rahman, S. S. M. M., & Sung, A. H. (2018, September). Evaluation of tree based machine learning classifiers for android malware detection. In International Conference on Computational Collective Intelligence (pp. 377-385). Springer, Cham.
+
+For Dataset: https://www.sec.cs.tu-bs.de/~danarp/drebin/
